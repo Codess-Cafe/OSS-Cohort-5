@@ -1,7 +1,7 @@
 Hi, my name is Akshita Sinha!
 
 ## About Me
-I am a passionate developer currently working on flutter. I have experience in basic flutter projects like language translator,I also worked oh a hostel management system using html,css and js.
+I am a passionate developer currently working on flutter. I have experience in basic flutter projects like language translator,I also worked oh a hostel management system using html,css and javascript.
 
 ## GitHub
 You can find me on GitHub at @Akshx09 (https://github.com/Akshx09)
