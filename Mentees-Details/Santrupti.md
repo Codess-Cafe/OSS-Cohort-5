@@ -1,7 +1,7 @@
 Hi, my name is Santrupti!
 
 ## About Me
-I an avid tech enthusiast with a nich for innovation and passionate for development and designing. Currently working on MERN stack, typescript, nextjs and familiar with implementation of supervised ML models. Formerly I have worked on a SpringBoot-based Twitter backend clone, PL-SQL based database designing, Decision Tree-based remote arrhythmia diagnosis system, to name a few.
+I an avid tech enthusiast and a strong advocate of women in tech, with a niche for innovation and passionate for development. Currently working on MERN stack, typescript, nextjs and familiar with implementation of supervised ML models. Formerly I have worked on a SpringBoot-based Twitter backend clone, PL-SQL based database design, Decision Tree-based remote arrhythmia diagnosis system, to name a few. Presently, I'm an open source contributor at GSSoC'24.
 
 ## GitHub
 You can find me on GitHub at [lazybug19](www.github.com/lazybug19)
