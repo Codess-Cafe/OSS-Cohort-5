@@ -10,6 +10,6 @@ You can find me on GitHub at [kasheeesh](https://github.com/kasheeesh)
 
 ## Interests
 
-Some of my interests include reading books, baking, dancing and I working out.
+Some of my interests include reading books, baking, dancing and I like working out.
 
 I'm excited to be a part of this cohort and looking forward to learning and collaborating with everyone!
