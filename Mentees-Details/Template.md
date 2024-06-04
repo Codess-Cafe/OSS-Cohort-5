@@ -1,12 +1,13 @@
-Hi, my name is [Your Name]!
+Hi, my name is Sristy Paul!
 
 ## About Me
-I am a passionate developer currently working on [technologies you are working on]. I have experience in [mention any relevant experience or projects].
+I am a passionate developer currently persuing my B-Tech Degree. I have experience in front-end declopment, html, css, javascript, reactjs.
 
 ## GitHub
-You can find me on GitHub at [your-GitHub-username](www.github.com/your-GitHub-username)
+You can find me on GitHub at <a href="https://github.com/sristy17"> Sristy
+  </a>
 
 ## Interests
-Some of my interests include [mention your interests or areas of focus].
+Some of my interests include reading books, music.
 
 I'm excited to be a part of this cohort and looking forward to learning and collaborating with everyone!
