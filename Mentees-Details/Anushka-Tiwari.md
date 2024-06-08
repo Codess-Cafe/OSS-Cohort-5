@@ -1,7 +1,7 @@
 Hi, my name is Anushka Tiwari!
 
 ## About Me
-I am a passionate developer currently working on Machine Learning and Web Developement. I have experience in training models using NLC and machine learning.
+I am a passionate developer currently working on Machine Learning and Web Developement and designing. I have experience in training models using NLC and machine learning.
 
 ## GitHub
 You can find me on GitHub at [anushka226](www.github.com/anushka226)
