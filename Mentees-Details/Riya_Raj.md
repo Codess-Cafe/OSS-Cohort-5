@@ -1,4 +1,4 @@
-Hi, my name is [Your Name]!
+Hi, my name is Riya Raj!
 
 ## About Me
 I am a passionate developer currently working on NodeJS, NextJS and Javascript. I have experience in CSS, HTML, JS, NodeJs and ExpressJS. Some of my projects include a live weather website to fetch real-
